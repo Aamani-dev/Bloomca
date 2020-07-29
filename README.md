@@ -7,5 +7,5 @@ So, I've tried to create very-very simple application with detailed explanation 
 So, if you want to take a look, just read the `src` folder, starting with `index.js` and then `main.js`.
 
 ## Reasoning
-
+## Aptitude
 Why on earth creating another web application, especially in plain javascript? And when the reference application [exists](https://github.com/tastejs/todomvc/tree/gh-pages/examples/vanillajs) (which is quite obsolete to the moment – because modern applications without fetching data are not the most common case). I've written a [blog post](https://bloomca-me.github.io/2016/10/15/writing-web-application-in-plain-js.html) about it, but the general idea is to provide explanation how the basic application can be structured. This structure is not unique or special, and many frameworks have it in some way or another.
